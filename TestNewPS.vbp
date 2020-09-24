@@ -1,0 +1,36 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\WINDOWS\system32\stdole2.tlb#OLE Automation
+Reference=*\G{E63E2AE9-D2D9-41F2-9720-49701A091EBB}#9a.0#0#WinPS.dll#Batch Control DLL
+Reference=*\G{A35E165A-4333-4C52-B2EC-079536722AFF}#1.1#0#..\..\..\..\..\WINDOWS\System32\PICCLP32.oca#Microsoft PictureClip Control 6.0
+Form=TestNewPS.frm
+Startup="fTestWinPS"
+HelpFile=""
+ExeName32="TestNewPS.exe"
+Command32=""
+Name="Projekt1"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="UMG_EDV"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
